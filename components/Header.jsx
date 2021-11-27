@@ -25,6 +25,7 @@ const Header = () => {
         src="https://links.papareact.com/ua6"
         width="200px"
         height="100px"
+        alt="logo"
       />
     </header>
   );
